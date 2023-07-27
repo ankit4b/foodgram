@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/foodgram/static/css/main.55be06df.css",
+    "main.js": "/foodgram/static/js/main.8e31db6f.js",
+    "static/media/Header.png": "/foodgram/static/media/Header.768e86ac2473e22f346a.png",
+    "static/media/pizza_PNG44090 1.png": "/foodgram/static/media/pizza_PNG44090 1.446ac1a185561e9266bd.png",
+    "static/media/Little Caesars Crazy Bread.png": "/foodgram/static/media/Little Caesars Crazy Bread.e26f6d8760eac25844d7.png",
+    "static/media/Dunkin' Munchkins.png": "/foodgram/static/media/Dunkin' Munchkins.00ab47599b0ad0d1f4f1.png",
+    "static/media/Two-Piece Fish Meal.png": "/foodgram/static/media/Two-Piece Fish Meal.60c26617e2ac14fdb8e8.png",
+    "static/media/Ziti-plate-above 1.png": "/foodgram/static/media/Ziti-plate-above 1.d8083b6e933347e501aa.png",
+    "static/media/motton.png": "/foodgram/static/media/motton.25830b92ecdaf23fb247.png",
+    "static/media/carbonara 1.png": "/foodgram/static/media/carbonara 1.cf6898fc2605f71e9762.png",
+    "static/media/Tortellini_Alfredo-plate-above 1.png": "/foodgram/static/media/Tortellini_Alfredo-plate-above 1.77f446f9acdbffe00c69.png",
+    "static/media/product-skinless-grilled-chicken-salad 1.png": "/foodgram/static/media/product-skinless-grilled-chicken-salad 1.3e2bd39ea11461e3e91d.png",
+    "static/media/chicken.png": "/foodgram/static/media/chicken.2a562a52c5433eaaea11.png",
+    "static/media/Pasta-PNG-Image-HD 1.png": "/foodgram/static/media/Pasta-PNG-Image-HD 1.7ac86917504fdf838cb9.png",
+    "static/media/home_pizza_slider_2 1.png": "/foodgram/static/media/home_pizza_slider_2 1.cdac893a5a967e929183.png",
+    "static/media/tomatoes 1.png": "/foodgram/static/media/tomatoes 1.506caf251ae8ce460787.png",
+    "static/media/user.png": "/foodgram/static/media/user.a56270aa4ea9c7ec932f.png",
+    "index.html": "/foodgram/index.html",
+    "main.55be06df.css.map": "/foodgram/static/css/main.55be06df.css.map",
+    "main.8e31db6f.js.map": "/foodgram/static/js/main.8e31db6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55be06df.css",
+    "static/js/main.8e31db6f.js"
+  ]
+}
